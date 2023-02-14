@@ -6,7 +6,7 @@ var line = value[value.length -1];
 console.log("line : "+line);
 var movieName = line.text;
 if (line.source.toLowerCase()==="visitor"){
-var url = "https://www.omdbapi.com?t="+movieName+"&apikey=28df6aa3";
+var url = "https://www.omdbapi.com?t="+movieName+"&apikey=53e45af4";
 
 
 
